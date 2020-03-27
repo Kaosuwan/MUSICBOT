@@ -1,0 +1,2 @@
+# MUSICBOT
+discord: CURSED#0764
